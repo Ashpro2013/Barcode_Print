@@ -1,0 +1,9 @@
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\Ashpro.csprojAssemblyReference.cache
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\Ashpro.BarcodeDesign.resources
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\Ashpro.csproj.GenerateResource.cache
+F:\BarcodePrint\BarcodePrint\BarcodePrint.exe.config
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+F:\BarcodePrint\BarcodePrint\BarcodePrint.exe
+F:\BarcodePrint\BarcodePrint\BarcodePrint.pdb

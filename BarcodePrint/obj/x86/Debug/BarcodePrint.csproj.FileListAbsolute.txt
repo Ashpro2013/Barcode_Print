@@ -1,0 +1,177 @@
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodePrint.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csproj.GenerateResource.Cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.exe
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodePrint.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\acer\Documents\Visual Studio 2010\Projects\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.TestingForm.resources
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.exe
+D:\New folder\BarcodePrint\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.TestingForm.resources
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.xml
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.pdb
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.xml
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.Common.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.Common.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.UserControls.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.UserControls.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.CommonMessages.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\es-ES\atACC.CommonMessages.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.CommonMessages.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\hi-IN\atACC.CommonMessages.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\ml-IN\atACC.CommonMessages.resources.dll
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\si-LK\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.exe
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.exe
+D:\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.pdb
+D:\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.xml
+D:\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.xml
+D:\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.Common.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.Common.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\es-ES\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\hi-IN\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\ml-IN\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\si-LK\atACC.CommonMessages.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.UserControls.resources.dll
+D:\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.UserControls.resources.dll
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.TestingForm.resources
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csproj.GenerateResource.Cache
+D:\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.exe.config
+D:\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.dll
+D:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csprojResolveAssemblyReference.cache
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.dll.config
+D:\New folder\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.dll
+D:\New folder\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.Common.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.CommonMessages.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCFramework.UserControls.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACCORM.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\CommonExtensions.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\LocalORM.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\atACC.Framework.NepaliDateConversion.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\Emgu.CV.World.xml
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\EntityFramework.xml
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.Common.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.Common.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\es-ES\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\hi-IN\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\ml-IN\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\si-LK\atACC.CommonMessages.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\ar-QA\atACCFramework.UserControls.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\fr-FR\atACCFramework.UserControls.resources.dll
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.TestingForm.resources
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+D:\Barcode\BarcodePrint\BarcodePrint\bin\Debug\BarcodePrint.dll.config
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csprojResolveAssemblyReference.cache
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csproj.GenerateResource.Cache
+D:\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.dll
+Z:\BarcodePrint.dll.config
+Z:\BarcodePrint.dll
+Z:\BarcodePrint.pdb
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csprojResolveAssemblyReference.cache
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.BarcodeDesign.resources
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.Properties.Resources.resources
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.TestingForm.resources
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csproj.GenerateResource.Cache
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.dll
+D:\Personal\Barcode\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.pdb
+F:\BarcodePrint\BarcodePrint\obj\x86\Debug\BarcodePrint.csprojAssemblyReference.cache
+F:\BarcodePrint\BarcodePrint\BarcodePrint.exe.config
+F:\BarcodePrint\BarcodePrint\BarcodePrint.exe
+F:\BarcodePrint\BarcodePrint\BarcodePrint.pdb
